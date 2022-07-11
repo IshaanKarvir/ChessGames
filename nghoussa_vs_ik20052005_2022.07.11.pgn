@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.11"]
+[Round "-"]
+[White "nghoussa"]
+[Black "ik20052005"]
+[Result "0-1"]
+[CurrentPosition "5rk1/p1p2ppp/2P5/2b5/8/1B6/PPP2QPP/RN1r2K1 w - -"]
+[Timezone "UTC"]
+[ECO "C45"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game-Classical-Variation-5.Nxc6"]
+[UTCDate "2022.07.11"]
+[UTCTime "03:08:59"]
+[WhiteElo "1281"]
+[BlackElo "1459"]
+[TimeControl "900+10"]
+[Termination "ik20052005 won by checkmate"]
+[StartTime "03:08:59"]
+[EndDate "2022.07.11"]
+[EndTime "03:20:49"]
+[Link "https://www.chess.com/game/live/51247803151"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 bxc6 6. Bc4 Ne7 7. O-O O-O 8.
+Bg5 d5 9. Bb3 Qd6 10. Re1 Qe5 11. Bxe7 Qxe7 12. exd5 Qf6 13. Re2 Bg4 14. dxc6
+Rad8 15. Qe1 Bxe2 16. Qxe2 Qxf2+ 17. Qxf2 Rd1# 0-1

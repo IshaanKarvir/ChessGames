@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.10"]
+[Round "?"]
+[White "DMS86"]
+[Black "ik20052005"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "1333"]
+[BlackElo "1448"]
+[TimeControl "900+10"]
+[EndTime "19:21:11 PDT"]
+[Termination "ik20052005 won by resignation"]
+
+1. d4 Nf6 2. Bf4 e6 3. e3 d5 4. Nf3 Be7 5. c4 Nc6 6. a3 a5 7. h3 O-O 8. Nc3 Re8
+9. Be2 Bd6 10. Bh2 e5 11. cxd5 exd4 12. exd4 Nxd5 13. Nxd5 Bxh2 14. Nxh2 Qxd5
+15. Nf3 Qb5 16. Qc2 Bf5 17. Qd2 Bd3 18. O-O Bxe2 19. Rfe1 Bxf3 20. Rxe8+ Rxe8
+21. gxf3 Qd5 22. Rd1 Qxf3 23. d5 Re2 0-1
